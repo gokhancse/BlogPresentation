@@ -1,0 +1,13 @@
+﻿@model List<BlogDAL.Core.Makale>
+
+<h2>Son Makaleler</h2>
+
+@foreach (var m in Model)
+{
+    <div style="border-radius:10px; background-color:#eeeeee; padding:10px; margin:5px">
+        <h3>@m.Baslik</h3>
+        @*@m.Icerik*@
+        @Html.Raw(@m.Icerik)
+        <strong>Tarih : @m.Tarih</strong>
+    </div>
+}

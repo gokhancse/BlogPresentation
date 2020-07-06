@@ -1,0 +1,25 @@
+C:\Users\section-1\Documents\ERP6\MVCBlogPresentation\BlogBLL\bin\Debug\BlogBLL.dll
+C:\Users\section-1\Documents\ERP6\MVCBlogPresentation\BlogBLL\bin\Debug\BlogBLL.pdb
+C:\Users\section-1\Documents\ERP6\MVCBlogPresentation\BlogBLL\obj\Debug\BlogBLL.dll
+C:\Users\section-1\Documents\ERP6\MVCBlogPresentation\BlogBLL\obj\Debug\BlogBLL.pdb
+C:\Users\section-1\Documents\ERP6\MVCBlogPresentation\BlogBLL\bin\Debug\BlogDAL.dll
+C:\Users\section-1\Documents\ERP6\MVCBlogPresentation\BlogBLL\bin\Debug\BlogDAL.pdb
+C:\Users\section-1\Documents\ERP6\MVCBlogPresentation\BlogBLL\bin\Debug\EntityFramework.dll
+C:\Users\section-1\Documents\ERP6\MVCBlogPresentation\BlogBLL\bin\Debug\EntityFramework.xml
+C:\Users\section-1\Documents\ERP6\MVCBlogPresentation\BlogBLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\section-1\Documents\ERP6\MVCBlogPresentation\BlogBLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\section-1\Documents\ERP6\MVCBlogPresentation\BlogBLL\obj\Debug\BlogBLL.csprojResolveAssemblyReference.cache
+C:\Users\gokha\OneDrive\Masaüstü\Github\Wissen\FURKAN PROJELER WISSEN\MVCBlogPresentation\BlogBLL\bin\Debug\BlogBLL.dll
+C:\Users\gokha\OneDrive\Masaüstü\Github\Wissen\FURKAN PROJELER WISSEN\MVCBlogPresentation\BlogBLL\bin\Debug\BlogBLL.pdb
+C:\Users\gokha\OneDrive\Masaüstü\Github\Wissen\FURKAN PROJELER WISSEN\MVCBlogPresentation\BlogBLL\bin\Debug\BlogDAL.dll
+C:\Users\gokha\OneDrive\Masaüstü\Github\Wissen\FURKAN PROJELER WISSEN\MVCBlogPresentation\BlogBLL\bin\Debug\EntityFramework.dll
+C:\Users\gokha\OneDrive\Masaüstü\Github\Wissen\FURKAN PROJELER WISSEN\MVCBlogPresentation\BlogBLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\gokha\OneDrive\Masaüstü\Github\Wissen\FURKAN PROJELER WISSEN\MVCBlogPresentation\BlogBLL\bin\Debug\BlogDAL.pdb
+C:\Users\gokha\OneDrive\Masaüstü\Github\Wissen\FURKAN PROJELER WISSEN\MVCBlogPresentation\BlogBLL\bin\Debug\BlogDAL.dll.config
+C:\Users\gokha\OneDrive\Masaüstü\Github\Wissen\FURKAN PROJELER WISSEN\MVCBlogPresentation\BlogBLL\bin\Debug\EntityFramework.xml
+C:\Users\gokha\OneDrive\Masaüstü\Github\Wissen\FURKAN PROJELER WISSEN\MVCBlogPresentation\BlogBLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\gokha\OneDrive\Masaüstü\Github\Wissen\FURKAN PROJELER WISSEN\MVCBlogPresentation\BlogBLL\obj\Debug\BlogBLL.csprojAssemblyReference.cache
+C:\Users\gokha\OneDrive\Masaüstü\Github\Wissen\FURKAN PROJELER WISSEN\MVCBlogPresentation\BlogBLL\obj\Debug\BlogBLL.csproj.CoreCompileInputs.cache
+C:\Users\gokha\OneDrive\Masaüstü\Github\Wissen\FURKAN PROJELER WISSEN\MVCBlogPresentation\BlogBLL\obj\Debug\BlogBLL.csproj.CopyComplete
+C:\Users\gokha\OneDrive\Masaüstü\Github\Wissen\FURKAN PROJELER WISSEN\MVCBlogPresentation\BlogBLL\obj\Debug\BlogBLL.dll
+C:\Users\gokha\OneDrive\Masaüstü\Github\Wissen\FURKAN PROJELER WISSEN\MVCBlogPresentation\BlogBLL\obj\Debug\BlogBLL.pdb

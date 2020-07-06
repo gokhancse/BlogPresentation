@@ -1,0 +1,14 @@
+﻿@model List<BlogDAL.Core.Etiket>
+
+<h3>Çok Kullanılan Etiketler</h3>
+
+
+    <div style="border:1px solid black">
+        @foreach (var e in Model)
+        {
+            <ul>
+                <li><h5>@Html.ActionLink(@e.Icerik, "MakalelerByEtiket", new {etiketid = e.EtiketID })</h5></li>
+            </ul>
+        }
+    </div>
+                

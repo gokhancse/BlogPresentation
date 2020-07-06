@@ -1,0 +1,20 @@
+﻿@model List<BlogDAL.Core.Yorum>
+
+<h2>Tüm Yorumlar</h2>
+
+@foreach (var y in Model)
+{
+    <div style="border-radius:10px; background-color:#eeeeee; padding:10px; margin:5px">
+        <strong>
+            Yazan : @{ string adsoyad = y.Uye.Ad + " " + y.Uye.Soyad;}
+            @adsoyad
+        </strong>
+        <h3>Makale Bilgileri</h3>
+        @*<strong>@y.Makale.Baslik</strong>*@
+        @*<strong>@Html.ActionLink(@y.Makale.Baslik, "MakaleByYorum", new { yorumID = y.YorumID })</strong>*@
+        <strong>@y.Makale.Baslik</strong>
+        <h3>Yorum İçeriği</h3>
+        @Html.Raw(@y.Icerik)
+    </div>
+                }
+

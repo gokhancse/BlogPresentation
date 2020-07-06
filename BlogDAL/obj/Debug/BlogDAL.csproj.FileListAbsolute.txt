@@ -1,0 +1,22 @@
+C:\Users\section-1\Documents\ERP6\MVCBlogPresentation\BlogDAL\bin\Debug\BlogDAL.dll
+C:\Users\section-1\Documents\ERP6\MVCBlogPresentation\BlogDAL\bin\Debug\BlogDAL.pdb
+C:\Users\section-1\Documents\ERP6\MVCBlogPresentation\BlogDAL\obj\Debug\BlogDAL.dll
+C:\Users\section-1\Documents\ERP6\MVCBlogPresentation\BlogDAL\obj\Debug\BlogDAL.pdb
+C:\Users\section-1\Documents\ERP6\MVCBlogPresentation\BlogDAL\bin\Debug\BlogDAL.dll.config
+C:\Users\section-1\Documents\ERP6\MVCBlogPresentation\BlogDAL\bin\Debug\EntityFramework.dll
+C:\Users\section-1\Documents\ERP6\MVCBlogPresentation\BlogDAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\section-1\Documents\ERP6\MVCBlogPresentation\BlogDAL\bin\Debug\EntityFramework.xml
+C:\Users\section-1\Documents\ERP6\MVCBlogPresentation\BlogDAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\section-1\Documents\ERP6\MVCBlogPresentation\BlogDAL\obj\Debug\BlogDAL.csprojResolveAssemblyReference.cache
+C:\Users\gokha\OneDrive\Masaüstü\Github\Wissen\FURKAN PROJELER WISSEN\MVCBlogPresentation\BlogDAL\bin\Debug\BlogDAL.dll.config
+C:\Users\gokha\OneDrive\Masaüstü\Github\Wissen\FURKAN PROJELER WISSEN\MVCBlogPresentation\BlogDAL\bin\Debug\BlogDAL.dll
+C:\Users\gokha\OneDrive\Masaüstü\Github\Wissen\FURKAN PROJELER WISSEN\MVCBlogPresentation\BlogDAL\bin\Debug\BlogDAL.pdb
+C:\Users\gokha\OneDrive\Masaüstü\Github\Wissen\FURKAN PROJELER WISSEN\MVCBlogPresentation\BlogDAL\bin\Debug\EntityFramework.dll
+C:\Users\gokha\OneDrive\Masaüstü\Github\Wissen\FURKAN PROJELER WISSEN\MVCBlogPresentation\BlogDAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\gokha\OneDrive\Masaüstü\Github\Wissen\FURKAN PROJELER WISSEN\MVCBlogPresentation\BlogDAL\bin\Debug\EntityFramework.xml
+C:\Users\gokha\OneDrive\Masaüstü\Github\Wissen\FURKAN PROJELER WISSEN\MVCBlogPresentation\BlogDAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\gokha\OneDrive\Masaüstü\Github\Wissen\FURKAN PROJELER WISSEN\MVCBlogPresentation\BlogDAL\obj\Debug\BlogDAL.csprojAssemblyReference.cache
+C:\Users\gokha\OneDrive\Masaüstü\Github\Wissen\FURKAN PROJELER WISSEN\MVCBlogPresentation\BlogDAL\obj\Debug\BlogDAL.csproj.CoreCompileInputs.cache
+C:\Users\gokha\OneDrive\Masaüstü\Github\Wissen\FURKAN PROJELER WISSEN\MVCBlogPresentation\BlogDAL\obj\Debug\BlogDAL.csproj.CopyComplete
+C:\Users\gokha\OneDrive\Masaüstü\Github\Wissen\FURKAN PROJELER WISSEN\MVCBlogPresentation\BlogDAL\obj\Debug\BlogDAL.dll
+C:\Users\gokha\OneDrive\Masaüstü\Github\Wissen\FURKAN PROJELER WISSEN\MVCBlogPresentation\BlogDAL\obj\Debug\BlogDAL.pdb

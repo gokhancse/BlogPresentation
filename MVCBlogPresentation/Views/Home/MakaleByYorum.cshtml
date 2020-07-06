@@ -1,0 +1,15 @@
+﻿@model BlogDAL.Core.Makale
+
+<h2>İlgili Makale</h2>
+
+    <div style="border-radius:10px; background-color:#eeeeee; padding:10px; margin:5px">
+        <h3 style="color:red">@Model.Baslik</h3><hr />
+        @Html.Raw(@Model.Icerik)
+        <strong>Tarih : @Model.Tarih</strong>
+        <hr />
+        <strong>
+            Yazan : @{ string adsoyad = Model.Uye.Ad + " " + Model.Uye.Soyad;}
+            @adsoyad
+        </strong>
+    </div>
+

@@ -1,0 +1,19 @@
+﻿@model List<BlogDAL.Core.Makale>
+
+<h2>Son Makaleler</h2>
+
+@foreach (var m in Model)
+{
+    <div style="border-radius:10px; background-color:#eeeeee; padding:10px; margin:5px">
+        <h3 style="color:red">@m.Baslik</h3><hr />
+        @Html.Raw(@m.Icerik)
+        <strong>Tarih : @m.Tarih</strong>
+        <hr />
+        <strong>
+            Yazan : @{ string adsoyad = m.Uye.Ad + " " + m.Uye.Soyad;}
+            @adsoyad
+        </strong>
+
+    </div>
+}
+
